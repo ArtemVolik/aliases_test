@@ -1,0 +1,5 @@
+venv
+.env
+.pytest_cache
+aliases/migrations
+*.sqlite3git branch -M main

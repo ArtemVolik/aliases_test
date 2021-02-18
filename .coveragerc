@@ -1,0 +1,8 @@
+[run]
+source = aliases
+omit =
+    aliases/tests.py
+    *apps.py
+    *migrations/*
+    *admin.py
+    *views.py
